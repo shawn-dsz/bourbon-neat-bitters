@@ -1,0 +1,10 @@
+**/base/**/*
+**/neat/**/*
+**/bourbon/**/*
+
+**/bower_components/**/*
+**/node_modules/**/*
+**/.sass-cache/**/*
+
+**/*.css
+**/*.map

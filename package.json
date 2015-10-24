@@ -1,0 +1,18 @@
+{
+  "name": "bourbon-neat-bitters",
+  "version": "1.0.0",
+  "description": "Learn to use bourbon neat and bitter to quickly write css ",
+  "main": "app.sass",
+  "scripts": {
+    "test": "none"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "shawn",
+  "license": "MIT",
+  "devDependencies": {
+    "livereload": "^0.3.7",
+    "serve": "^1.4.0"
+  }
+}
